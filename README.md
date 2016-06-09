@@ -1,2 +1,2 @@
 # uc_AGH
-A really badly written set of functions for simple string operations on microcontrollers
+A set of functions for simple string operations on microcontrollers
